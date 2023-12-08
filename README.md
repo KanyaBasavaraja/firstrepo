@@ -1,4 +1,4 @@
 # firstrepo
-This is my first repository.
-I need to leasrn asap
-Author - Kanya
+This is my first repository./n 
+I need to leasrn asap /n
+Author - Kanya 
